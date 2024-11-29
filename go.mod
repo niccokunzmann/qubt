@@ -1,3 +1,3 @@
-module github.com/chrede88/qubt
+module github.com/niccokunzmann/qubt
 
 go 1.23.3
